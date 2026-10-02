@@ -15,10 +15,11 @@ Sou graduanda em Ciências Biológicas e encontro na ciência uma forma de obser
 | **La Graci Bolsas** | Catálogo digital com filtros de produtos, contato pelo WhatsApp e painel administrativo integrado ao Supabase. | [Site](https://lagracibolsas.com.br/) · [Código](https://github.com/jalkhalifa/catalogo-la-graci-bolsas) |
 | **Nat Piercer Tattoo** | Portfólio bilíngue para apresentação de trabalhos e contato profissional. | [Site](https://natpiercertattoo.com.br/) · [Código](https://github.com/jalkhalifa/natpiercer-tattoo) |
 | **Meu portfólio** | Experiência visual inspirada em ciência e geometria, com elementos interativos e um quiz para iniciar o briefing de projetos. | [Site](https://portfolio-jamila-khalifa.netlify.app/) · [Código](https://github.com/jalkhalifa/portfolio-jamila-khalifa) |
+| **ViraVeste — em desenvolvimento** | Marketplace de produtos de segunda mão, desenvolvido individualmente, com proposta de vendas diretas e leilões. | [Código](https://github.com/jalkhalifa/viraveste) |
 
 ## Tecnologias utilizadas nos meus projetos
 
-HTML · CSS · JavaScript · Supabase · Git · GitHub · Netlify
+HTML · CSS · JavaScript · TypeScript · React · Tailwind CSS · Supabase · Git · GitHub · Netlify
 
 ## O que orienta meu trabalho
 
@@ -30,3 +31,4 @@ HTML · CSS · JavaScript · Supabase · Git · GitHub · Netlify
 > Criar começa por questionar: olhar de outro modo para o que existe abre espaço para o que pode existir.
 
 Rio Verde, Goiás · Projetos para profissionais e pequenos negócios.
+
